@@ -1,7 +1,7 @@
 # Practical Threat Model Report
 > STRIDE-based security assessment of a message board application across production and corporate network environments.
 
-**Dataflow Diagram:** [threatmodelmessageapp.netlify.app](https://threatmodelmessageapp.netlify.app/)
+**Dataflow Diagram:** [threatmodelmessageapp.netlify.app]([https://threatmodelmessageapp.netlify.app/](https://practicalthreatmodel.netlify.app/))
 
 ---
 
